@@ -1,7 +1,7 @@
 [
     {
         "DisplayName": "Server Name",
-        "Category": "Server Settings",
+        "Category": "Miscreated",
         "Description": "The name displayed in server browser.",
         "Keywords": "server,name",
         "FieldName": "ServerName",
@@ -11,14 +11,14 @@
         "IncludeInCommandLine": false,
         "DefaultValue": "AMP Powered Server",
         "Placeholder": "AMP Powered Server",
-        "Suffix": "",
+        "Suffix": "ServerName",
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
     },
     {
         "DisplayName": "Max Users",
-        "Category": "Server Settings",
+        "Category": "Miscreated",
         "Description": "Maximun Players",
         "Keywords": "max,users",
         "FieldName": "MaxUsers",
@@ -28,7 +28,7 @@
         "IncludeInCommandLine": false,
         "DefaultValue": "50",
         "Placeholder": "50",
-        "Suffix": "",
+        "Suffix": "MaxUsers",
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
