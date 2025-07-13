@@ -1,9 +1,0 @@
-[
-    {
-        "UpdateStageName": "SteamCMD Download",
-        "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "302200",
-        "UpdateSourceArgs": "299740",
-    }
-]

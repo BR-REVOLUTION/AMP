@@ -1,10 +1,9 @@
 {
-    "id": "750bad20-c62a-42d7-a256-e93bb22e08f7",
-    "authors": [
-        "LemureGamer"
-    ],
-    "origin": "https://github.com/BR-REVOLUTION/AMP",
-    "url": "https://github.com/BR-REVOLUTION/AMP",
+    "id": "0bb219d6-0255-4dff-b8e3-4e0c8139f635",
+    "authors": ["Greelan"],
+    "origin": "https://github.com/Greelan/AMPTemplates.git",
+    "url": "https://github.com/Greelan/AMPTemplates/tree/dev",
     "imagefile": "",
-    "prefix": "LemureGamer"
+    "prefix": "Greelan",
+    "repotype": "AppTemplates"
 }
